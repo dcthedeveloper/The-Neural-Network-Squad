@@ -24,28 +24,28 @@
 
 ### Cover Page
 <p align="center">
-  <img src="screenshots/Screenshot%202026-02-01%20at%204.44.49%20PM.png" alt="Cover Page" width="600">
+  <img src="screenshots/Screenshot%202026-02-01%20at%204.44.49%E2%80%AFPM.png" alt="Cover Page" width="600">
 </p>
 
 ### Meet the Characters
 <p align="center">
-  <img src="screenshots/Screenshot%202026-02-01%20at%204.45.14%20PM.png" alt="Wally Weight" width="400">
-  <img src="screenshots/Screenshot%202026-02-01%20at%204.45.39%20PM.png" alt="Bella Bias" width="400">
+  <img src="screenshots/Screenshot%202026-02-01%20at%204.45.14%E2%80%AFPM.png" alt="Wally Weight" width="400">
+  <img src="screenshots/Screenshot%202026-02-01%20at%204.45.39%E2%80%AFPM.png" alt="Bella Bias" width="400">
 </p>
 
 ### The Gatekeepers
 <p align="center">
-  <img src="screenshots/Screenshot%202026-02-01%20at%204.45.55%20PM.png" alt="Siggy, Tanya, Rex" width="600">
+  <img src="screenshots/Screenshot%202026-02-01%20at%204.45.55%E2%80%AFPM.png" alt="Siggy, Tanya, Rex" width="600">
 </p>
 
 ### Interactive Demos
 <p align="center">
-  <img src="screenshots/Screenshot%202026-02-01%20at%204.46.13%20PM.png" alt="Activation Functions" width="600">
+  <img src="screenshots/Screenshot%202026-02-01%20at%204.46.13%E2%80%AFPM.png" alt="Activation Functions" width="600">
 </p>
 
 ### How a Neuron Thinks
 <p align="center">
-  <img src="screenshots/Screenshot%202026-02-01%20at%204.46.34%20PM.png" alt="Neuron Diagram" width="600">
+  <img src="screenshots/Screenshot%202026-02-01%20at%204.46.34%E2%80%AFPM.png" alt="Neuron Diagram" width="600">
 </p>
 
 ## 🦸 Meet The Characters
