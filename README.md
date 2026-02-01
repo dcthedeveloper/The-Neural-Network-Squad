@@ -156,7 +156,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Created By
 **DeMarcus, Chloe, Matthew, Franck**  
-Houston Community College  
+Houston City College  
 ITAI 2376: Deep Learning
 
 ### Research Sources
